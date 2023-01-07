@@ -1,0 +1,21 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+header{
+  margin:20px 0;
+  padding-bottom:20px;
+  text-align:center;
+  border-bottom:1px solid black;
+}
+
+.nav-list{
+  text-align:center;
+}
+
+.nav-list-item{
+  list-style:none;
+  display:inline-block;
+}
